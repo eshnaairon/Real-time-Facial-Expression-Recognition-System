@@ -67,9 +67,8 @@ history = model.fit(
 )
  
 
-#Uncomment the line below if you have saved model
 
-#model = tf.keras.models.load_model('model.h5')
+model = tf.keras.models.load_model('C:/Users/eshna airon/Downloads/FacialExpressionRecognition-master/app/model.h5')  ### Update it to your path
 
 def predict_images(img):
   
