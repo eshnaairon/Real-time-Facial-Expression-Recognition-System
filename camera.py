@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 from predictor import predict
-facec = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
+facec = cv2.CascadeClassifier("C:/Users/eshna airon/Downloads/FacialExpressionRecognition-master/app/haarcascade_frontalface_default.xml")  #### Update it to your path
 font = cv2.FONT_HERSHEY_SIMPLEX
 
 class VideoCamera(object):
