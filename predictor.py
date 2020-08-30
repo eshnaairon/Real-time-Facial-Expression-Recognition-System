@@ -19,14 +19,14 @@ img_size = 100
 batch_size = 64
 import h5py
 
-#Comment all the lines below if you have a loaded model
+#Comment all the lines before load_model func if you have a loaded model
 
 datagen_train = ImageDataGenerator(rescale=1./255) 
 datagen_validation = ImageDataGenerator(rescale=1./255)
 
 datagen_train = ImageDataGenerator(horizontal_flip=True)
-train_dir="train_data_path"
-test_dir="test_data_path"
+train_dir="train_data_path"  ### Update it to your path
+test_dir="test_data_path"    ### Update it to your path
 
 
 train_generator = datagen_train.flow_from_directory(train_dir,
