@@ -12,6 +12,9 @@ Practical Use Cases of Facial Emotion Detection Using Artificial Intelligence-
 
 DataSet- https://www.kaggle.com/msambare/fer2013
 
+Glimse of the dataset-
+![](output.png)
+
 Prerequisites-
 1. Python 3
 2. Keras
