@@ -23,7 +23,7 @@ Prerequisites-
 Steps to do-
 1. Download the dataset from the above link
 2. Unzip The Data
-3. In line 28th and 29th of predictor.py mention the path to train ,test data respectively.
+3. Read the comments of predictor.py and camera.py and update paths accordingly.
 4. Run main.py
 
 
