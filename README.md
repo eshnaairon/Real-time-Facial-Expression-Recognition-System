@@ -11,7 +11,9 @@ Practical Use Cases of Facial Emotion Detection Using Artificial Intelligence-
 
 
 DataSet- https://www.kaggle.com/msambare/fer2013
-Traned Model- https://drive.google.com/file/d/1iHbaIRqAJZXCMQJY7nqNMb3lpMvGRYn5/view?usp=sharing 
+
+Trained Model- https://drive.google.com/file/d/1iHbaIRqAJZXCMQJY7nqNMb3lpMvGRYn5/view?usp=sharing 
+
 Glimse of the dataset-
 ![](example.png)
 
